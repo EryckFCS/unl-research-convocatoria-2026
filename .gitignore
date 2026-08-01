@@ -1,0 +1,24 @@
+# Python virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema y temporales
+.DS_Store
+*.tmp
+*.log
+
+# Datos pesados y compilados locales
+data/raw/
+data/processed/
+*.pdf
+*.xlsx
+*.csv
+*.dta
+*.do
+*.zip
+*.tar.gz
